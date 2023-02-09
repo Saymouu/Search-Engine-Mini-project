@@ -1,0 +1,507 @@
+# depslib dependency file v1.0
+1650857603 source:c:\users\ousse\documents\uni stuff\mini projet mdr\analyseur.cpp
+	"Analyseur.h"
+
+1650849662 source:c:\users\ousse\documents\uni stuff\mini projet mdr\lecteur.cpp
+	"Lecteur.h"
+
+1650854752 c:\users\ousse\documents\uni stuff\mini projet mdr\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1650885724 source:c:\users\ousse\documents\uni stuff\mini projet mdr\main.cpp
+	<iostream>
+	"moteurrecherche.h"
+
+1650884849 source:c:\users\ousse\documents\uni stuff\mini projet mdr\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1650884744 c:\users\ousse\documents\uni stuff\mini projet mdr\nettoyeur.h
+	<string>
+	<vector>
+
+1650886854 c:\users\ousse\documents\uni stuff\mini projet mdr\moteurrecherche.h
+	<string>
+
+1650887416 c:\users\ousse\documents\uni stuff\mini projet mdr\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1650857586 c:\users\ousse\documents\uni stuff\mini projet mdr\stats.h
+	<string>
+
+1650884618 source:c:\users\ousse\documents\uni stuff\mini projet mdr\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1650884652 c:\users\ousse\documents\uni stuff\mini projet mdr\ordonnanceur.h
+	<vector>
+	<string>
+
+1650886396 source:c:\users\ousse\documents\uni stuff\mini projet mdr\index.cpp
+	"index.h"
+
+1650887432 c:\users\ousse\documents\uni stuff\mini projet mdr\index.h
+	<vector>
+	"stats.h"
+
+1650891075 source:c:\users\msi\desktop\mini projet c++\mini projet mdr\index.cpp
+	"index.h"
+
+1650891071 c:\users\msi\desktop\mini projet c++\mini projet mdr\index.h
+	<vector>
+	"stats.h"
+
+1650857588 c:\users\msi\desktop\mini projet c++\mini projet mdr\stats.h
+	<string>
+
+1650849664 source:c:\users\msi\desktop\mini projet c++\mini projet mdr\lecteur.cpp
+	"Lecteur.h"
+
+1650890416 c:\users\msi\desktop\mini projet c++\mini projet mdr\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1650884850 source:c:\users\msi\desktop\mini projet c++\mini projet mdr\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1650884746 c:\users\msi\desktop\mini projet c++\mini projet mdr\nettoyeur.h
+	<string>
+	<vector>
+
+1650884620 source:c:\users\msi\desktop\mini projet c++\mini projet mdr\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1650884654 c:\users\msi\desktop\mini projet c++\mini projet mdr\ordonnanceur.h
+	<vector>
+	<string>
+
+1650890687 source:c:\users\msi\desktop\mini projet c++\mini projet mdr\analyseur.cpp
+	"Analyseur.h"
+
+1650891535 c:\users\msi\desktop\mini projet c++\mini projet mdr\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1650891039 source:c:\users\msi\desktop\mini projet c++\mini projet mdr\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+
+1650887440 c:\users\msi\desktop\mini projet c++\mini projet mdr\moteurrecherche.h
+	<string>
+
+1636758248 source:c:\users\acer\desktop\mini projet mdr_1\analyseur.cpp
+	"Analyseur.h"
+
+1636758246 c:\users\acer\desktop\mini projet mdr_1\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1636757891 c:\users\acer\desktop\mini projet mdr_1\stats.h
+	<string>
+
+1650894676 source:c:\users\acer\desktop\mini projet mdr_1\index.cpp
+	"index.h"
+
+1636758320 c:\users\acer\desktop\mini projet mdr_1\index.h
+	<vector>
+	"stats.h"
+
+1636758167 source:c:\users\acer\desktop\mini projet mdr_1\lecteur.cpp
+	"Lecteur.h"
+
+1636758152 c:\users\acer\desktop\mini projet mdr_1\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1636758320 source:c:\users\acer\desktop\mini projet mdr_1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+
+1650891040 c:\users\acer\desktop\mini projet mdr_1\moteurrecherche.h
+	<string>
+
+1650888346 c:\users\acer\desktop\mini projet mdr_1\nettoyeur.h
+	<string>
+	<vector>
+
+1636758320 c:\users\acer\desktop\mini projet mdr_1\ordonnanceur.h
+	<vector>
+	<string>
+	"index.h"
+
+1650888450 source:c:\users\acer\desktop\mini projet mdr_1\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1650888220 source:c:\users\acer\desktop\mini projet mdr_1\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1650895383 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\analyseur.cpp
+	"Analyseur.h"
+
+1650895425 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1636754292 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\stats.h
+	<string>
+
+1650891076 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\index.cpp
+	"index.h"
+
+1650895740 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\index.h
+	<vector>
+	"stats.h"
+
+1636754568 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\lecteur.cpp
+	"Lecteur.h"
+
+1636754554 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1651786816 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+
+1650896359 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\moteurrecherche.h
+	<string>
+
+1651782783 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\nettoyeur.h
+	<string>
+	<vector>
+
+1636754722 c:\users\msi\desktop\mini projet c++\mini projet mdr_2\ordonnanceur.h
+	<vector>
+	<string>
+	"index.h"
+
+1651784530 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1650884620 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1651785188 source:c:\users\msi\desktop\mini projet c++\mini projet mdr_2\moteurderecherche.cpp
+	"moteurrecherche.h"
+	<iostream>
+	<string>
+	<vector>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+
+1652406854 source:c:\users\ousse\desktop\mini projet mdr_2\analyseur.cpp
+	"Analyseur.h"
+
+1652386295 c:\users\ousse\desktop\mini projet mdr_2\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1636754292 c:\users\ousse\desktop\mini projet mdr_2\stats.h
+	<string>
+
+1652663082 source:c:\users\ousse\desktop\mini projet mdr_2\index.cpp
+	"index.h"
+
+1652659859 c:\users\ousse\desktop\mini projet mdr_2\index.h
+	<vector>
+	<iostream>
+	"stats.h"
+
+1652657565 source:c:\users\ousse\desktop\mini projet mdr_2\lecteur.cpp
+	"Lecteur.h"
+	<iostream>
+
+1652656991 c:\users\ousse\desktop\mini projet mdr_2\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<dirent.h>
+	<cstring>
+
+1652663485 source:c:\users\ousse\desktop\mini projet mdr_2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<chrono>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+	"Enregisteur.h"
+	"Recuperateur.h"
+	<bits/stdc++.h>
+
+1652663707 c:\users\ousse\desktop\mini projet mdr_2\moteurrecherche.h
+	<string>
+	<iostream>
+	<vector>
+	<sstream>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+	"Enregisteur.h"
+	"Recuperateur.h"
+
+1652633274 c:\users\ousse\desktop\mini projet mdr_2\nettoyeur.h
+	<string>
+	<vector>
+	<cctype>
+
+1652662423 c:\users\ousse\desktop\mini projet mdr_2\ordonnanceur.h
+	<vector>
+	"stats.h"
+
+1652663380 source:c:\users\ousse\desktop\mini projet mdr_2\moteurderecherche.cpp
+	"moteurrecherche.h"
+
+1652638066 source:c:\users\ousse\desktop\mini projet mdr_2\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1652662359 source:c:\users\ousse\desktop\mini projet mdr_2\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1650895383 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\analyseur.cpp
+	"Analyseur.h"
+
+1650895425 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1636754292 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\stats.h
+	<string>
+
+1652110019 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\index.cpp
+	"index.h"
+
+1652360877 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\index.h
+	<vector>
+	"stats.h"
+
+1636754568 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\lecteur.cpp
+	"Lecteur.h"
+
+1636754554 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+
+1652109919 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+
+1652105651 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\moteurrecherche.h
+	<string>
+	"index.h"
+
+1652360722 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\nettoyeur.h
+	<string>
+	<vector>
+
+1652052652 c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\ordonnanceur.h
+	<vector>
+	"stats.h"
+
+1652104168 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\moteurderecherche.cpp
+	"moteurrecherche.h"
+	<iostream>
+	<string>
+	<vector>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+
+1651784530 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1652052542 source:c:\users\msi\desktop\mini projet c++\mini_projet_mdr_2\mini projet mdr_2\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1652659975 c:\users\ousse\desktop\mini projet mdr_2\enregisteur.h
+	<fstream>
+	<string>
+	<iostream>
+	"index.h"
+
+1652659975 source:c:\users\ousse\desktop\mini projet mdr_2\recuperateur.cpp
+	"Recuperateur.h"
+
+1652659975 c:\users\ousse\desktop\mini projet mdr_2\recuperateur.h
+	<fstream>
+	<string>
+	<iostream>
+	"index.h"
+	<sstream>
+
+1652659975 source:c:\users\ousse\desktop\mini projet mdr_2\enregisteur.cpp
+	"Enregisteur.h"
+
+1652406854 source:c:\users\ousse\desktop\mini projet version finale\analyseur.cpp
+	"Analyseur.h"
+
+1652386295 c:\users\ousse\desktop\mini projet version finale\analyseur.h
+	<string>
+	<vector>
+	"stats.h"
+
+1636754292 c:\users\ousse\desktop\mini projet version finale\stats.h
+	<string>
+
+1652659975 source:c:\users\ousse\desktop\mini projet version finale\enregisteur.cpp
+	"Enregisteur.h"
+
+1652659975 c:\users\ousse\desktop\mini projet version finale\enregisteur.h
+	<fstream>
+	<string>
+	<iostream>
+	"index.h"
+
+1652659859 c:\users\ousse\desktop\mini projet version finale\index.h
+	<vector>
+	<iostream>
+	"stats.h"
+
+1652663082 source:c:\users\ousse\desktop\mini projet version finale\index.cpp
+	"index.h"
+
+1652657565 source:c:\users\ousse\desktop\mini projet version finale\lecteur.cpp
+	"Lecteur.h"
+	<iostream>
+
+1652656991 c:\users\ousse\desktop\mini projet version finale\lecteur.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<dirent.h>
+	<cstring>
+
+1652663485 source:c:\users\ousse\desktop\mini projet version finale\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<chrono>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+	"Enregisteur.h"
+	"Recuperateur.h"
+	<bits/stdc++.h>
+
+1652663707 c:\users\ousse\desktop\mini projet version finale\moteurrecherche.h
+	<string>
+	<iostream>
+	<vector>
+	<sstream>
+	"moteurrecherche.h"
+	"index.h"
+	"Analyseur.h"
+	"stats.h"
+	"Lecteur.h"
+	"Nettoyeur.h"
+	"ordonnanceur.h"
+	"Enregisteur.h"
+	"Recuperateur.h"
+
+1652633274 c:\users\ousse\desktop\mini projet version finale\nettoyeur.h
+	<string>
+	<vector>
+	<cctype>
+
+1652662423 c:\users\ousse\desktop\mini projet version finale\ordonnanceur.h
+	<vector>
+	"stats.h"
+
+1652659975 c:\users\ousse\desktop\mini projet version finale\recuperateur.h
+	<fstream>
+	<string>
+	<iostream>
+	"index.h"
+	<sstream>
+
+1652663380 source:c:\users\ousse\desktop\mini projet version finale\moteurderecherche.cpp
+	"moteurrecherche.h"
+
+1652638066 source:c:\users\ousse\desktop\mini projet version finale\nettoyeur.cpp
+	<iostream>
+	"Nettoyeur.h"
+
+1652662359 source:c:\users\ousse\desktop\mini projet version finale\ordonnanceur.cpp
+	"ordonnanceur.h"
+
+1652659975 source:c:\users\ousse\desktop\mini projet version finale\recuperateur.cpp
+	"Recuperateur.h"
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Mini Projet MDR" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Mini Projet MDR" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Mini Projet MDR" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Analyseur.cpp" />
+		<Unit filename="Analyseur.h" />
+		<Unit filename="Enregisteur.cpp" />
+		<Unit filename="Enregisteur.h" />
+		<Unit filename="Index.cpp" />
+		<Unit filename="Lecteur.cpp" />
+		<Unit filename="Lecteur.h" />
+		<Unit filename="Nettoyeur.cpp" />
+		<Unit filename="Nettoyeur.h" />
+		<Unit filename="Recuperateur.cpp" />
+		<Unit filename="Recuperateur.h" />
+		<Unit filename="index.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="moteurderecherche.cpp" />
+		<Unit filename="moteurrecherche.h" />
+		<Unit filename="ordonnanceur.cpp" />
+		<Unit filename="ordonnanceur.h" />
+		<Unit filename="stats.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
